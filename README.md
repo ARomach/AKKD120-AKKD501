@@ -1,0 +1,1 @@
+Course website for AKKD110/AKKD500 Elementary Akkadian I, Fall 2024 at Yale University
