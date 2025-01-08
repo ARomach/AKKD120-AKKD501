@@ -51,15 +51,17 @@ Grading is as follows:
 
 - 5% Lemma biographies presentations
 - 5% Weekly vocab quizzes
-- 10% Two take-home quarter quizzes
-- 15% Midterm exam
+- 10% Sign list preparation
+- 20% Midterm exam
 - 20% Final exam
-- 45% HW preparation and active class participation
+- 40% HW preparation and active class participation
 
 **Lemma biographies presentations**: each student will have to give *at least once* a five-minute presentation on a few Akkadian words of their choice. The presentation should include the common meanings of the words, summarized from the dictionaries and online resources. These presentations will begin on the fourth week of the semester. Students can choose as many words as they want, as long as their presentation does not take more or less then five minutes.
 
 **Weekly vocab quizzes**: there will be two quizzes to complete per week outside of class time in Google forms: one covering just the new vocabulary learned that week, and another with a sample of all the vocabulary learned thus far. <u>Participation is enough for credit, not correct answers</u>. Nevertheless, you can take the vocabulary quizzes multiple times, and it is highly recommended to do so until you get all correct answers.
 
-**Two take-home quarter quizzes, Midterm exam, and Final exam**: exams will include texts in transliteration and cuneiform, covering genres and grammar learned thus far. Students will need to transliterate or parse verbs, as well as normalize and translate. A detailed explanation on the structure of each exam or quiz will be given a week in advance.
+**Sign list preparation**: each student will have to prepare two sign list, one for monumental script and another for cursive script. A sign list organizes cuneiform signs according to a visual principle, so that it will be possible to search through signs based on their appearance. Students can organize the signs based on existing organizational methods in the field, or based on their own method of linking and association. They will be submitted throughout the semester to ensure consistent progress, in electronic form (preferably an Excel or Google Spreadsheet file).
+
+**Midterm and Final exams**: exams will include texts in transliteration and cuneiform, covering genres and grammar learned thus far. Students will need to transliterate or parse verbs, as well as normalize and translate. A detailed explanation on the structure of each exam will be given a week in advance.
 
 **HW preparation and active class participation**: we will read texts assigned for homework together in class. Students must come prepared having already **transliterated, normalized, translated, and parsed all verbs before class**. **Attendance is mandatory**: if you have to miss a class, please let me know in advance in person or via email and provide the reason. Only one unexcused absence is permitted each semester, without affecting the grade.
