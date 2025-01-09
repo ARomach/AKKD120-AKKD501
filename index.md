@@ -4,7 +4,7 @@ layout: default
 
 ## Course Description
 
-*Meeting time and place*: TThu 11:15am-12:30pm, SML 323 \\
+*Meeting time and place*: TTh 11:15am-12:30pm, SML 323 \\
 *Instructor*: Avital Romach\\
 *Email*: avital.romach@yale.edu\\
 *Office hours*: by appointment; I will also stay after class time for any further questions\\
@@ -14,7 +14,7 @@ This course is a continuation of [Elementary Akkadian I](https://aromach.github.
 
 ## Goals and Objectives
 
-Students at the end of this course will be able to be confident in reading most Akkadian text genres from the Old Babylonain period in transliteration and some from cuneiform hand-copies. They will be able to easily identify common Akkadian words and common cuneiform signs from memory. They will be familiar with using the main dictionaries in the field (CDA, CAD, and SAD; see further below) and online resources for Akkadian and cuneiform texts. Students will be ready to take intermediate and advanced Akkadian classes which can include reading texts from other periods and dialects of Akkadian.
+Students at the end of this course will be confident in reading most Akkadian text genres from the Old Babylonain period in transliteration and some from cuneiform hand-copies. They will be able to easily identify common Akkadian words and common cuneiform signs from memory. They will be familiar with using the main sign lists and dictionaries in the field (see further below) and online resources for Akkadian and cuneiform texts. Students will be ready to take intermediate and advanced Akkadian classes which can include reading texts from other periods and dialects of Akkadian.
 
 More specifically, the course has the following goals:
 - cover remaining topics of Akkadian grammar, with an emphasis on the Old Babylonian dialect (ca. 1800 BCE)
@@ -40,6 +40,15 @@ In addition, students should use the standard dictionaries in the field:
 - Optional (German): von Soden, Wolfram, *Akkadisches Handwörterbuch* (AHw). Harrassowits: Wiesbaden, three volumes, [1965](https://drive.google.com/file/d/1ITsTxjKv8XAEK2UFyW3fbQNnXDPzPZnI/view?usp=sharing){:target="_blank"}, [1972](https://drive.google.com/file/d/1OBe1ZaRRje-qqYekRxFuyLupB-vxUkg2/view?usp=sharing){:target="_blank"}, [1974](https://drive.google.com/file/d/1zgnGl5GTMnGrRlRfjT9uPwn8gkVaSBVZ/view?usp=sharing){:target="_blank"}.
 
 It is **not mandatory** to purchase any of the dictionaries, as they are all available online (or at campus libraries). The CDA is available through [Internet Archive](https://archive.org/details/AConsiceDictionaryAkkadian/mode/2up){:target="_blank"}, and a digital version of the CDA is available through the [eBL platform](https://www.ebl.lmu.de/dictionary){:target="_blank"}; all the volumes of the CAD are available through the [Institute for the Study of Ancient Cultures of the University of Chicago website](https://isac.uchicago.edu/research/publications/chicago-assyrian-dictionary){:target="_blank"}; the SAD volumes are available at the [Leipzig University website](https://www.gkr.uni-leipzig.de/en/draft/altorientalisches-institut/forschung/supplement-to-the-akkadian-dictionaries){:target="_blank"}; and the AHw volumes are available through the links on the volume year names above.
+
+Lastly, students should also use or be acquinted with the following sign lists, also all available online:
+
+- Labat, René and Florence Malbran Labat, *Manuel d'épigraphie akkadienne* (6<sup>th</sup> edition). Geuthner Manuels: Paris, 1995.
+- Borger, Rykle, *Mesopotamisches Zeichenlexikon*. AOAT 305. Ugarit-Verlag: Münster. 
+- Goetze, Albrecht, Sign List, in *Old Babylonian Omen Texts*, plates CXXVII-CXXXII. YOS 10. Yale University Press: New Haven, 1947.
+- Mittermayer, Catherine, *Altbabylonische Zeichenliste der sumerisch-literarischen Texte*. Academic Press Fribourg; Vandenhoeck & Ruprecht Göttingen, 2006.
+
+The sign lists by Borger and Labat are most commonly used in the field, but the signs are organized according to their Neo-Assyrian forms. Labat is available on [Internet Archive](https://archive.org/details/rene-labat-florence-malbran-labat-manuel-depigraphie-akkadienne-signes-syllabair/page/n1/mode/2up){:target="_blank"} and through this [Google Drive link](https://drive.google.com/file/d/1nvoGlNfz9dJgBGuZQ-4uloZ-SALPQO32/view?usp=sharing){:target="_blank"}; Borger is available on [Internet Archive](https://archive.org/details/MesopotamischesZeichenlexikon/page/n1/mode/1up){:target="_blank"}. Goetze's sign list, available through the [Yale Babylonian Collection website](https://babylonian-collection.yale.edu/sites/default/files/files/yos10.pdf){:target="_blank"}, organizes the signs according to their Old Babylonian forms, and the same is true for Mittermayer's book, available on [Internet Archive](https://archive.org/details/Mittermayer2006AltbabylonischeZeichenlistePages4303/mode/2up){:target="_blank"}.
 
 ## Schedule and Grading
 
