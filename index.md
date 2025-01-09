@@ -46,7 +46,7 @@ Lastly, students should also use or be acquinted with the following sign lists, 
 - Labat, René and Florence Malbran Labat, *Manuel d'épigraphie akkadienne* (6<sup>th</sup> edition). Geuthner Manuels: Paris, 1995.
 - Borger, Rykle, *Mesopotamisches Zeichenlexikon*. AOAT 305. Ugarit-Verlag: Münster. 
 - Goetze, Albrecht, Sign List, in *Old Babylonian Omen Texts*, plates CXXVII-CXXXII. YOS 10. Yale University Press: New Haven, 1947.
-- Mittermayer, Catherine, *Altbabylonische Zeichenliste der sumerisch-literarischen Texte*. Academic Press Fribourg; Vandenhoeck & Ruprecht Göttingen, 2006.
+- Mittermayer, Catherine, *Altbabylonische Zeichenliste der sumerisch-literarischen Texte*. Academic Press Fribourg: Göttingen, 2006.
 
 The sign lists by Borger and Labat are most commonly used in the field, but the signs are organized according to their Neo-Assyrian forms. Labat is available on [Internet Archive](https://archive.org/details/rene-labat-florence-malbran-labat-manuel-depigraphie-akkadienne-signes-syllabair/mode/2up){:target="_blank"} and through this [Google Drive link](https://drive.google.com/file/d/1nvoGlNfz9dJgBGuZQ-4uloZ-SALPQO32/view?usp=sharing){:target="_blank"}; Borger is available on [Internet Archive](https://archive.org/details/MesopotamischesZeichenlexikon/mode/1up){:target="_blank"}. Goetze's sign list, available through the [Yale Babylonian Collection website](https://babylonian-collection.yale.edu/sites/default/files/files/yos10.pdf){:target="_blank"}, organizes the signs according to their Old Babylonian forms, and the same is true for Mittermayer's book, available on [Internet Archive](https://archive.org/details/Mittermayer2006AltbabylonischeZeichenlistePages4303/mode/2up){:target="_blank"}.
 
